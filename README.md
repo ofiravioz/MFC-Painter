@@ -1,5 +1,6 @@
 # MFC-Painter
 Painter for drawing different shapes using MFC
+
 1.inheritance tree:
 figure
 triangle,segment,rectangle,ellipse
